@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "demo-appinsights-dotnet"
+    },
+    {
+      "path": "demo-appinsights-spfx"
+    }
+  ],
+  "settings": {
+    "typescript.tsdk": ".\\node_modules\\typescript\\lib"
+  }
+}

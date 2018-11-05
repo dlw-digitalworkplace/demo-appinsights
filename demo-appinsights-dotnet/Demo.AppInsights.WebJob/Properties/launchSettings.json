@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Demo.AppInsights.WebJob": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
